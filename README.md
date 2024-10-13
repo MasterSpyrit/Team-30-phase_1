@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-test of cookie cutter
+Phase 1 of predictive maintenance and setup of all tools and libraries for the project to be more scalable and maintainable.
 
 ## Project Organization
 
@@ -56,6 +56,12 @@ test of cookie cutter
     │
     └── plots.py                <- Code to create visualizations
 ```
+
+First steps:
+    make sure you have python 3.11.9 installed
+    using powershell: .\scripts\activate.ps1
+    cd phase_1.0
+    pip install -r requirements.txt
 
 --------
 
