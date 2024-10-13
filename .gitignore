@@ -2,6 +2,7 @@ scripts/
 Lib/
 Share/
 etc/
+include/
 # Mac OS-specific storage files
 .DS_Store
 
